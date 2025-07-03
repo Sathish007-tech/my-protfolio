@@ -1,6 +1,6 @@
 // Typewriter effect
 const typewriter = document.getElementById('typewriter');
-const text = "Hello, I'm Sathish 007";
+const text = "Hello, I'm Lakshmanan";
 let index = 0;
 
 function type() {
